@@ -8,4 +8,6 @@ def display_board(board)
   puts separator
   puts row
 end
-display_board
+
+display_board(board)
+
